@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in PHP related to type juggling. The `calculateSum` function unintentionally performs string concatenation instead of numerical addition when encountering a string element within the input array. The solution showcases how to handle type checking and ensure accurate numerical summation.
